@@ -41,7 +41,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Developed by:Harisha
+```   Developed by:Harisha
 RegisterNumber:24900903
 module jk_flipflop (
     input clk,    // Clock signal
@@ -74,8 +74,7 @@ module jk_flipflop (
             endcase
         end
     end
-endmodule
-*/
+endmodule   ```
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![d7a](https://github.com/user-attachments/assets/fae55733-f33b-43c8-baeb-ecea5a9c7000)
